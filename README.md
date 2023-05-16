@@ -3,7 +3,7 @@
 
 <div align="center" width="50">
 
-<img src="https://www.cigarcentury.com/uploads/marcas/Joya_De_Nicaragua_Cigar_Logo.png" alt="Welcome!" width="300"/>
+<img src="https://www.cigarcentury.com/uploads/marcas/Joya_De_Nicaragua_Cigar_Logo.png" alt="Welcome!" width="150"/>
 </div>
 
 - 🔭 Actualmente trabajo en [Joya de Nicaragua](https://joyacigars.com/es/inicio/)
