@@ -3,7 +3,7 @@
 
 <div align="center" width="50">
 
-<img src="[[[https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjoyacigars.com%2Fes%2Finicio%2F&psig=AOvVaw3ZxGG3rqOtElB91gKEBHtL&ust=1684356819902000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDlgKrc-v4CFQAAAAAdAAAAABAE)](https://casadelpuro.com/wp-content/uploads/2022/04/joya-de-nicaragua-min-2.jpg)](https://www.cigarcentury.com/uploads/marcas/Joya_De_Nicaragua_Cigar_Logo.png)" alt="Welcome!" width="300"/>
+<img src="https://www.cigarcentury.com/uploads/marcas/Joya_De_Nicaragua_Cigar_Logo.png" alt="Welcome!" width="300"/>
 </div>
 
 - 🔭 Actualmente trabajo en [Joya de Nicaragua](https://joyacigars.com/es/inicio/)
